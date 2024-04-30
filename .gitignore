@@ -3,5 +3,4 @@ include/
 lib/
 pyvenv.cfg
 share/
-taleweaver.md
 set-it.sh
