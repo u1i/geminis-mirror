@@ -18,7 +18,11 @@ What about a fresh idea for a Hackathon project submission? Instead of the usual
 
 `pip install -r requirements.txt`
 
-### Run the project
+### Set Environment Variable: Google API Key
+
+`export GENAI_API_KEY="AIGhJh7rnA49x3bkBNfXAdj8D-rSX4ev"`
+
+### Run the Project
 
 `python gmirr.py`
 
